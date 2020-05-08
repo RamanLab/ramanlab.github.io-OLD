@@ -5,6 +5,11 @@ show_downloads: false
 theme: jekyll-theme-slate
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 plugins:
-  - jekyll_include_cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 gems:
   - jekyll-mentions
