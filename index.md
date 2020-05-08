@@ -15,6 +15,10 @@ ReactionMiner is a tool to predict (bio)chemical reactions using graph mining.
 * [Original Research Article in _Bioinformatics_](http://dx.doi.org/10.1093/bioinformatics/btx481)
 * Funding Acknowledgement: This work was supported by the [Indian Institute of Technology Madras](http://www.iitm.ac.in/) grant CSE/14-15/5643/NFSC/SAYN to Sayan Ranu and the [Initiative for Biological Systems Engineering (IBSE)](https://web.iitm.ac.in/ibse) at IIT Madras.
 
+### MetQuest
+
+### MinReact
+
 ## Authors and Contributors
 * Karthik Raman (@karthikraman)
 * Aditya Pratapa (@adityaprat)
