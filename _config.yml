@@ -2,6 +2,7 @@ title: ramanlab.github.io
 description: Computational Systems Biology Lab @ IIT Madras
 google_analytics: 
 show_downloads: false
+theme: jekyll-theme-slate
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 plugins:
   - jekyll_include_cache
